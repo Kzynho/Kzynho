@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas Vindas ao Meu Perfil 👋
 
-<!--
-**Kzynho/Kzynho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Kaique Gabriel
 
-Here are some ideas to get you started:
+-Estou Estudando no Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me Desenvolvendo Linguagens Javascritip
+
+-Utilizo Esse Espaço para minha organizaçao e compartilhamentos dos meus projetos Desenvolvimentos
+
+### Vocé pode entrar em contato comigo 📫
+-gabrielkaique041@gmail.com.br
+
+(![image](https://github.com/Kzynho/Kzynho/assets/170418950/b77c8fa0-8fbc-4537-8b11-eb627bf5d8ea)
